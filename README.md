@@ -1,0 +1,2 @@
+# FFHardening
+Firefox Hardening Guide
