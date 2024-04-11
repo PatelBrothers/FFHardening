@@ -3,7 +3,7 @@
 - [GitHub - arkenfox/user.js: Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening](https://github.com/arkenfox/user.js)
 - [user.js/desktop at main - Narsil/user.js - Codeberg.org](https://codeberg.org/Narsil/user.js/src/branch/main/desktop)
 
-Arkenfox is the most popular `user.js` file that privacy enthusiast use. It is as of righting this, 1/1/2024, well maintained and backed by a large community. However the creator said he does plan to eventually stop maintaining it because of the new Mullvad Browser which out of the box is the most secure browser you can use apart from TOR. Since Narsil, a fork of Arkenfox with a more aggressive emphasis on privacy over security, depends on Arkenfox it will also soon cease to exist. Nevertheless I wanted to try my approach at hardening my own instance of firefox to fit my particular threat model.
+Arkenfox is the most popular `user.js` file that privacy enthusiast use. It is as of writing this, 1/1/2024, well maintained and backed by a large community. However the creator said he does plan to eventually stop maintaining it because of the new Mullvad Browser which out of the box is the most secure browser you can use apart from TOR. Since Narsil, a fork of Arkenfox with a more aggressive emphasis on privacy over security, depends on Arkenfox it will also soon cease to exist. Nevertheless I wanted to try my approach at hardening my own instance of firefox to fit my particular threat model.
 ### user.js
 I ended up deciding on Narsil because I would much rather have more privacy at the cost of less security in this case for two reasons:
 - uBlock should be suffice for my security needs
